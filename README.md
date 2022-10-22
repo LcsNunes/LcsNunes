@@ -1,4 +1,4 @@
-Olá eu sou o Lucas Porfirio Nunes
+Olá, eu sou o Lucas Porfirio Nunes, seja bem vindo(a)
 
 <div align="center">
 
